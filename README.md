@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Syedaliahmed852728
+- 👋 Hi, I’m Ali
 - 👀 I’m interested in problem solving and code optimization 
 - 🌱 I’m currently learning data Science 
 - 💞️ I’m looking to collaborate on any task related to problem solving or data analysis,data cleaning, hypothesis testing, data visulatization, 
