@@ -39,13 +39,6 @@ I don't just use LLMs — I architect systems around them: multi-agent workflows
 
 ---
 
-## 📊 GitHub Stats
-
-![Syed Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Syedaliahmed852728&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Syedaliahmed852728&layout=compact&theme=default&hide_border=true)
-
----
 
 ## 🙂 A Bit About Me
 
