@@ -1,52 +1,97 @@
-# Hi, I'm Syed Ali Ahmed 👋
+<h1 align="center">Syed Ali Ahmed</h1>
 
-I'm an **AI/ML Engineer** based in Islamabad, Pakistan — focused on building production-grade **agentic AI systems**, scalable **cloud data pipelines**, and intelligent **ML-powered backends** that solve real problems.
-
-I don't just use LLMs — I architect systems around them: multi-agent workflows, graph-based retrieval, LLM evaluation, human-in-the-loop feedback, and memory management that actually works at scale.
-
----
-
-## 🧠 What I Build
-
-- **Agentic AI Systems** — Multi-agent pipelines (Supervisor + Swarm), RAG, Neo4j graph retrieval, tool-use agents, MCP integrations, n8n workflows, Claude Code & OpenAI Codex automation
-- **Cloud & MLOps** — Azure (AKS, Durable Functions, VMSS, DevOps) · AWS (EC2, Lambda) · Kubernetes + KEDA · CI/CD pipelines · Docker
-- **ML & Forecasting** — LSTM time-series models, NLP Transformers, backtesting engines, severity prediction, FinOps cost intelligence
-- **Backend Engineering** — FastAPI (async), REST APIs, Neo4j, PostgreSQL, MySQL, Alpaca Markets API
+<p align="center">
+  <strong>Agentic AI and Software Engineering Professional</strong><br/>
+  Building intelligent, reliable, and practical software solutions.
+</p>
 
 ---
 
-## 🔧 Tech Stack
+## About Me
 
-**AI / Agents**
-`LangChain` `LangGraph` `LangSmith` `DeepEval` `OLLAMA` `RAG` `MCP` `n8n` `Claude Code` `OpenAI Codex` `Azure AI Foundry` `Hugging Face`
+I am a BS Software Engineering graduate with a strong interest in Agentic AI, backend engineering, machine learning, and production-ready systems.
 
-**Cloud & DevOps**
-`Azure` `AWS` `Kubernetes` `KEDA` `Docker` `Azure DevOps` `GitHub Actions`
+My recent work focuses on:
 
-**Languages & Frameworks**
-`Python` `FastAPI` `C++` `SQL`
+- Agentic AI and multi-agent workflows
+- Business intelligence platforms
+- Retrieval and search systems
+- FastAPI-based applications
+- Machine learning solutions
+- Scalable and secure software architectures
+- Data pipelines and database systems
 
-**Databases**
-`Neo4j` `PostgreSQL` `MySQL` `Azure SQL`
-
----
-
-## 🚀 Currently Working On
-
-- An AI-powered **swing trading platform** — real-time market intelligence agent + autonomous trade execution via Alpaca Markets
-- Experimenting with **agentic loops** using Claude Code and Codex to auto-generate and backtest trading strategies to convergence
-- Exploring **multi-agent orchestration patterns** for large-scale enterprise data systems
+I enjoy turning complex ideas into useful, measurable, and maintainable applications.
 
 ---
 
+## Featured Projects
 
-## 🙂 A Bit About Me
+### [BI Platform Agent](https://github.com/Syedaliahmed852728/BI-platform-agent)
 
-When I'm not debugging agent memory leaks or wrangling Kubernetes configs, I'm probably reading about markets, thinking about how to make AI systems less hallucination-prone, or enjoying a good cup of chai ☕. I believe the best engineering is invisible — it just works.
+A production-focused, multi-tenant Agentic Business Intelligence platform built with DeepAgents, LangGraph, Redis Vector Search, and SQL.
+
+The system learns from successful executions to improve accuracy and response quality over time.
+
+**Technologies:** DeepAgents, LangGraph, Redis, SQL, Python
 
 ---
 
-## 📬 Let's Connect
+### [EchoSafe Disaster Risk Platform](https://github.com/Syedaliahmed852728/echosafe-disaster-platform)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-ali-343aa5268)
-[![Email](https://img.shields.io/badge/Email-333333?style=flat&logo=gmail&logoColor=white)](mailto:syedaliahmed852728@gmail.com)
+A disaster risk forecasting platform developed as a Final Year Project. EchoSafe evaluates flood, heatwave, hailstorm, and earthquake severity using machine learning and rule-based models.
+
+**Technologies:** Python, XGBoost, FastAPI, Streamlit, PostgreSQL, Airflow, Docker, Nginx
+
+---
+
+### [Zoneomics Assessment](https://github.com/Syedaliahmed852728/Zoneomics-assessment)
+
+An automated tool for finding, downloading, dating, and validating zoning-map versions.
+
+**Technologies:** Python, Web Scraping, Data Processing, Automation
+
+---
+
+### [Booking Agent](https://github.com/Syedaliahmed852728/booking-agent)
+
+A practical exploration of voice-enabled agentic workflows and conversational AI.
+
+---
+
+## Technical Interests
+
+- Agentic AI and autonomous workflows
+- LangChain and LangGraph
+- Large Language Models
+- Retrieval-Augmented Generation
+- Business intelligence
+- Machine learning
+- FastAPI and backend development
+- PostgreSQL and Redis
+- Docker and application deployment
+- Data structures and algorithms
+
+---
+
+## Core Skills
+
+```text
+Languages:  Python, C++, SQL
+AI and ML:  LangChain, LangGraph, DeepAgents, XGBoost
+Backend:    FastAPI, REST APIs
+Data:       PostgreSQL, Redis, Airflow
+Frontend:   Streamlit
+DevOps:     Docker, Nginx
+Concepts:   DSA, OOP, Automation, Agentic Workflows
+```
+
+## Current Focus
+- I am continuously developing my expertise in:
+- Production-grade AI agents
+- Multi-tenant system architecture
+- Vector search and intelligent retrieval
+- Evaluation and observability for AI systems
+- Scalable and dependable applications
+
+<p align="center"> Open to opportunities in software engineering, AI engineering, and backend development.<br/> <strong>Let us build intelligent and impactful solutions.</strong> </p> ```
